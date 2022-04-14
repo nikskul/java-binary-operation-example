@@ -1,4 +1,4 @@
-#How binary operation in java work
+# How binary operation in java work
 ## About application
 The application demonstrate how binary operation work in Java.
 ### Binary "OR" and Binary "AND"
